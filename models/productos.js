@@ -1,8 +1,6 @@
 const { leerData } = require("../helpers/persistencia");
 
 class Productos {
-  _listado = [];
-
   constructor() {
     this._listado = leerData();
   }
