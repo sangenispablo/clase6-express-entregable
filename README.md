@@ -8,6 +8,6 @@
 
 ``` npm start ```
 
-### Para probar usar:
+### Para probar con Postman o Insomnia:
 
-Postman o Insomnia en la url: ``` localhost:8080/productos ``` o ``` localhost:8080/productoRandom ```  
+Usar las url's: ``` localhost:8080/productos ``` o ``` localhost:8080/productoRandom ```  
